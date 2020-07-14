@@ -1,0 +1,25 @@
+[{
+        "name": "Quote Generator",
+        "description": "A web application that fetches a random quote from the forismatic API on demand and allows you to share the quote to twitter or tumblr.",
+        "image": "images/image1.jpg",
+        "link": "https://malinacraciun23.github.io/QuoteGenerator"
+    },
+    {
+        "name": "Custom Countdown",
+        "description": "A countdown application that allows you to set a date and counts down the days, hours, minutes and seconds till that day.",
+        "image": "images/image2.jpg",
+        "link": "https://malinacraciun23.github.io/CustomCountdown"
+    },
+    {
+        "name": "Music Player",
+        "description": "A music player application that allows you to play/pause songs, navigate forward and backwards through songs and skip through a song using the progress bar.",
+        "image": "images/image3.jpg",
+        "link": "https://malinacraciun23.github.io/MusicPlayer"
+    },
+    {
+        "name": "Bookmark App",
+        "description": "A web application that allows you to add bookmarks to other websites and stores the data in localstorage.",
+        "image": "images/image4.jpg",
+        "link": "https://malinacraciun23.github.io/BookmarkApp"
+    }
+]
